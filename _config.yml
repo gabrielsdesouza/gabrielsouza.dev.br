@@ -1,7 +1,7 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
 title: Gabriel Souza
-description: Sou técnico programador formado em 2018 e trabalho com programação desde então.
+description: Técnico programador, trabalhando com desenvolvimento de sistemas desde 2015.
 baseurl: ""
 url: https://gabrielsouza.dev.br
 
@@ -10,24 +10,24 @@ url: https://gabrielsouza.dev.br
 json:
   name: Gabriel Souza
   description:
-    - Sou técnico programador formado em 2018 e trabalho com programação desde então.
-    - Meu histórico profissional pode ser encontrado no LinkedIn e em meu currículo que está em anexo.
-    - Meus projetos independentes e de portfólio estão disponíveis em meu site de projetos.
-    - Meu projeto hobbista atual é o desenvolvimento de um espaço que eu chamo de Código e Conteúdo.
+    - Sou técnico programador e trabalho com desenvolvimento de sistemas desde 2015.
+    - Meu histórico profissional pode ser encontrado no currículo que está em anexo.
+    - Meus projetos de portfólio estão disponíveis em meu site de projetos.
+    - Meu projeto hobbista atual é o Código e Conteúdo (espaço de programação).
   cv: assets/curriculo.pdf
   address:
     - Maringá, Paraná.
   contact:
-    phone: +55 44 9 91580952
-    email: gsdesenvolvedor@gmail.com
+    telefone: +55 44 9 91580952
+    e-mail: gsdesenvolvedor@gmail.com
   profiles:
     site-de-projetos: https://gsdesenvolvedor.com.br
     projeto-hobbista: https://codigoeconteudo.com.br
-    whatsapp: https://wa.me/+5544991580952
-    twitter: https://twitter.com/gsdesenvolvedor
-    instagram: https://www.instagram.com/gsdesenvolvedor
-    linkedin: https://www.linkedin.com/in/gsdesenvolvedor/
-    github: https://github.com/gsdesenvolvedor
+    meu-whatsapp: https://wa.me/+5544991580952
+    meu-twitter: https://twitter.com/gsdesenvolvedor
+    meu-instagram: https://www.instagram.com/gsdesenvolvedor
+    meu-linkedin: https://www.linkedin.com/in/gsdesenvolvedor/
+    meu-github: https://github.com/gsdesenvolvedor
 
 exclude:
   - LICENSE
