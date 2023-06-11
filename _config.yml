@@ -8,22 +8,22 @@ url: https://gabrielsouza.dev.br
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  nome: Gabriel Souza
-  descricao:
+  name: Gabriel Souza
+  description:
     - Sou técnico programador formado em 2018 e trabalho com programação desde então.
     - Meu histórico profissional pode ser encontrado no LinkedIn e em meu currículo que está em anexo.
     - Meus projetos independentes e de portfólio estão disponíveis em meu site de projetos.
     - Meu projeto hobbista atual é o desenvolvimento de um espaço que eu chamo de Código e Conteúdo.
   cv: assets/curriculo.pdf
-  endereco:
+  address:
     - Maringá, Paraná.
-  contato:
-    telefone: +55 44 9 91580952
-    e-mail: gsdesenvolvedor@gmail.com
-  meus-sites:
+  contact:
+    phone: +55 44 9 91580952
+    email: gsdesenvolvedor@gmail.com
+  profiles:
     site-de-projetos: https://gsdesenvolvedor.com.br
     projeto-hobbista: https://codigoeconteudo.com.br
-  redes-socais:
+    whatsapp: https://wa.me/+5544991580952
     twitter: https://twitter.com/gsdesenvolvedor
     instagram: https://www.instagram.com/gsdesenvolvedor
     linkedin: https://www.linkedin.com/in/gsdesenvolvedor/
