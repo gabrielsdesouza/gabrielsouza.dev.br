@@ -10,27 +10,21 @@ url: https://gabrielsouza.dev.br
 json:
   name: Gabriel Souza
   description:
-    - Hello!
-    - This tiny website
-    - Looks like json
-  cv: assets/cv.pdf
+    - Sou técnico programador formado em 2018 e trabalho com programação desde então, meu histórico profissional pode ser encontrado no LinkedIn.
+    - Meus projetos independentes e de portfólio estão disponíveis no site: GS Desenvolvedor e aqui no GitHub e eu posso ser contatado em contato@gsdesenvolvedor.com.br.
+    - Meu projeto hobbista atual é o desenvolvimento de um espaço de conteúdo de programação e tecnologia: Código e Conteúdo.
+    - Sou desenvolvedor de sistemas no Grupo Rivesa em Maringá desde 2018 e em projetos autônomos na Champz desde 2019.
+  cv: assets/curriculo.pdf
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - Maringá, Paraná.
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
+    phone: +55 44 991580952
+    email: gsdesenvolvedor@gmail.com
   profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    twitter: https://twitter.com/gsdesenvolvedor
+    instagram: https://www.instagram.com/gsdesenvolvedor
+    linkedin: https://www.linkedin.com/in/gsdesenvolvedor/
+    github: https://github.com/gsdesenvolvedor
 
 exclude:
   - LICENSE
