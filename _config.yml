@@ -10,19 +10,24 @@ url: https://gabrielsouza.dev.br
 json:
   name: Gabriel Souza
   description:
-    - Sou técnico programador e trabalho com desenvolvimento de sistemas desde 2015.
-    - Meu histórico profissional pode ser encontrado no currículo que está em anexo.
-    - Meus projetos de portfólio estão disponíveis em meu site de projetos.
-    - Meu projeto hobbista atual é o Código e Conteúdo (espaço de programação).
+    - Olá, sou Gabriel Souza.
+    - Tecnico programador desde 2015.
+    - Trabalho com desenvolvimento de sistemas.
+    - Minhas linguagens principais são JS (Node.js) e PHP.
+    - Saiba mais sobre mim no Linkedin ou no curriculo em anexo.
+    - Conheça meus projetos de portfólio no link 'site de projetos'.
+    - Visite meu projeto hobista para saber mais sobre tecnologia.
+    - Você pode visitar acessando o link 'projeto hobista'.
+    - Obrigado por estar aqui!
   cv: assets/curriculo.pdf
   address:
     - Maringá, Paraná.
   contact:
     telefone: +55 44 9 91580952
-    e-mail: gsdesenvolvedor@gmail.com
+    e-mail: contato@gabrielsouza.dev.br
   profiles:
     site-de-projetos: https://gsdesenvolvedor.com.br
-    projeto-hobbista: https://codigoeconteudo.com.br
+    projeto-hobista: https://codigoeconteudo.com.br
     meu-whatsapp: https://wa.me/+5544991580952
     meu-twitter: https://twitter.com/gsdesenvolvedor
     meu-instagram: https://www.instagram.com/gsdesenvolvedor
