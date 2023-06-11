@@ -11,13 +11,13 @@ json:
   name: Gabriel Souza
   description:
     - Olá, sou Gabriel Souza.
-    - Tecnico programador desde 2015.
+    - Técnico programador desde 2015.
     - Trabalho com desenvolvimento de sistemas.
-    - Minhas linguagens principais são JS (Node.js) e PHP.
+    - Minhas linguagens principais são JS/TS (Node.js) e PHP.
     - Saiba mais sobre mim no Linkedin ou no curriculo em anexo.
     - Conheça meus projetos de portfólio no link 'site de projetos'.
-    - Visite meu projeto hobista para saber mais sobre tecnologia.
-    - Você pode visitar acessando o link 'projeto hobista'.
+    - Visite também meu projeto hobista, onde eu falo sobre tecnologia.
+    - Você pode acessar através do link 'projeto hobista' mais abaixo.
     - Obrigado por estar aqui!
   cv: assets/curriculo.pdf
   address:
